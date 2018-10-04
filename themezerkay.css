@@ -637,7 +637,7 @@ div[class^="typeWindows-"] div[class^="wordmark"] svg {
   display: none; }
 
 div[class^="typeWindows-"] div[class^="wordmark"]::after {
-  content: "Discord/windows10";
+  content: "ZerkayDiscordFont";
   color: #FFF;
   font-size: 15px;
   position: absolute;
