@@ -140,7 +140,7 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     box-shadow: 0 0 10px 6px rgba(47, 49, 54, 0);
 }
 .guilds-wrapper .guilds .friends-icon:hover{
-    background-image: url(https://i.imgur.com/aHw3huz.png);
+    background-image: url(http://image.noelshack.com/fichiers/2018/40/4/1538670491-banner-fortnite-by-zerkay-1.png);
     background-position: 50%;
     transition: all  1s ease-in-out;
     background-repeat: no-repeat;
@@ -722,7 +722,7 @@ div[class^="contextMenu-"].theme-dark {
     border-top: 6px solid rgba(58, 113, 193, 0.53);
 }
 .app.theme-light::before {
-  content: "Please enable the Dark Theme in your Appearance settings.";
+  content: "Please enable the ZerkayFont in your Appearance settings.";
   height: 36px;
   background-color: #D02E00;
   color: #FFF;
@@ -2859,18 +2859,18 @@ div[class^="connectedAccountOpenIcon"] {
 }
 .headerPlaying-j0WQBV {
     background: #7289da;
-    background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
+    background-image: url(http://image.noelshack.com/fichiers/2018/40/4/1538670491-banner-fortnite-by-zerkay-1.png);
 }
 .inner-1JeGVc div[class*="body-"] {
     background-color: rgba(25, 25, 25, 0.01);
 }
 .inner-1JeGVc div[class*="topSection"] {
     background-color: #191919;
-    background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
+    background-image: url(http://image.noelshack.com/fichiers/2018/40/4/1538670491-banner-fortnite-by-zerkay-1.png);
 }
 .theme-dark .headerNormal-T_seeN {
     background-color: rgba(32, 34, 37, 0);
-    background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
+    background-image: url(http://image.noelshack.com/fichiers/2018/40/4/1538670491-banner-fortnite-by-zerkay-1.png);
 }
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
     background-color: #f04747;
@@ -2879,7 +2879,7 @@ div[class^="uploadModal"] {
     background-color: #191919;
     border: 1px solid var(--accent);
     border-radius: 0;
-    background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
+    background-image: url(http://image.noelshack.com/fichiers/2018/40/4/1538670491-banner-fortnite-by-zerkay-1.png);
 }
 .theme-dark .item-1Yvehc:hover {
     background: #25282d;
