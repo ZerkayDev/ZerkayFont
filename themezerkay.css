@@ -163,7 +163,7 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
 .mention {
     -webkit-transition: background-color .05s,color .05s;
     background: #43b581;
-    color: #43b581;
+    color: #01DF01;
     font-weight: 500;
     transition: background-color .05s,color .05s;
 }
