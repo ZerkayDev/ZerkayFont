@@ -4,7 +4,6 @@
 /* User Settings */
 :root {
   --imgNonBlurred: url(https://i.imgur.com/XoS5k1a.png);
-  --background: url(https://i.imgur.com/XoS5k1a.png) !important;
   --imgBlurred: url(https://i.imgur.com/XoS5k1a.png);
   --Brightness: rgba(0,0,0,0.2);
   --SecondaryBrightness: rgba(0,0,0,0.4);
